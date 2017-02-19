@@ -3,9 +3,15 @@
 This Repository have all open source files for my version of the popular Otto DIY 
 The Arduino code is modified from the Zowi robot, it has modified to wotk with a MAX 7219 LED MATRIX as as mouth as well as other adjustments.
 
-Please copy all the files in the Library folder to the Arduino IDE Library folder
+Please copy all the files in the OTTO_Library folder to the Arduino IDE Library folder
 
-The main program is inside the ZOWI_BASE_v2_MATRIX folder, ensure you are using the latest version of the Arduino IDE.
+
+The code is based on the Zowi code, modified for OTTO
+
+
+
+The modified OTTO main program is  inside the OTTO_LEDMATRIX folder, ensure you are using the latest version of the Arduino IDE.
+The modifed ZOWI main program is inside the ZOWI_BASE_v2_MATRIX folder, ensure you are using the latest version of the Arduino IDE.
 
 
 Happy roboting....
