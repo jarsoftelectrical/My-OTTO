@@ -9,7 +9,10 @@ Please copy all the files in the OTTO_Library folder to the Arduino IDE Library 
 The code is based on the Zowi code, modified for OTTO
 
 Please NOTE: i have moved the BUZZER to pin D13............
+
 Please NOTE: you need pull-down resistors on the button pins............
+
+Please NOTE: you will need a link between A7 and +5 volt to fool low battery warnings
 
 The modified OTTO main program is  inside the OTTO_LEDMATRIX folder, ensure you are using the latest version of the Arduino IDE.
 The modifed ZOWI main program is inside the ZOWI_BASE_v2_MATRIX folder, ensure you are using the latest version of the Arduino IDE.
